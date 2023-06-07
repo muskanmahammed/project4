@@ -2,15 +2,16 @@ h1{
     color: black;
     margin-top: 5%;
     font-size: xx-large;
-    margin-left:-5%;
+    
 }
 .robot{
     width: 900px;
     height: 500px;
     border: 2px solid transparent;
     position: relative;
-    margin-left: 18% ;
-    margin-top: -5%;
+    /* margin-left: 18% ;
+    margin-top: -5%; */
+    margin:auto;
     
 }
 
